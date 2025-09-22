@@ -6,12 +6,15 @@ Welcome to the **AI Micro Degree (AIPA / AI Programming Assistant Course)** repo
 
 ## 📘 About the Program
 
-The AI Micro Degree is an initiative by the **Directorate General of Training (DGT), Ministry of Skill Development and Entrepreneurship**, in collaboration with **Microsoft** and implemented by **Edunet Foundation**. :contentReference[oaicite:0]{index=0}
+The AI Micro Degree is an initiative by the **Directorate General of Training (DGT), Ministry of Skill Development and Entrepreneurship**, in collaboration with **Microsoft** and implemented by **Edunet Foundation**. 
 
-- **Course Duration**: ~1,600 hours over 12 months :contentReference[oaicite:1]{index=1}  
-- **Format**: Theoretical & practical classes, assignments, virtual project-based learning, assessments :contentReference[oaicite:2]{index=2}  
-- **Objective**: To equip trainees with working knowledge of AI, programming, data skills, cloud skills, and make them job-ready for AI-related roles. :contentReference[oaicite:3]{index=3}  
-- **Partners**: DGT (Vocational / IT training), Microsoft (tools, cloud, curriculum support), Edunet Foundation (skilling and implementation) :contentReference[oaicite:4]{index=4}  
+
+- **Course Duration**: ~1,600 hours over 12 months.
+- **Format**: Theoretical & practical classes, assignments, virtual project-based learning, assessments.
+- **Objective**: To equip trainees with working knowledge of AI, programming, data skills, cloud skills, and make them job-ready for AI-related roles.
+- **Partners**: DGT (Vocational / IT training), Microsoft (tools, cloud, curriculum support), Edunet Foundation (skilling and implementation).
+
+[Website](https://aimicrodegree.org/)
 
 ---
 
