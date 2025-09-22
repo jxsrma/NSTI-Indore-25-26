@@ -1,6 +1,6 @@
 # 📘 **25 Excel Questions – Mobile Usage**
 
-### ** A. SUM / AVERAGE**
+### **A. SUM / AVERAGE**
 
 1. Find the **total App Usage Time (min/day)** for all users.
 2. Calculate the **average Screen On Time (hours/day)** of all users.
