@@ -14,7 +14,7 @@ The AI Micro Degree is an initiative by the **Directorate General of Training (D
 - **Objective**: To equip trainees with working knowledge of AI, programming, data skills, cloud skills, and make them job-ready for AI-related roles.
 - **Partners**: DGT (Vocational / IT training), Microsoft (tools, cloud, curriculum support), Edunet Foundation (skilling and implementation).
 
-[Website](https://aimicrodegree.org/)
+<a href="http://example.com/" target="_blank">Website</a>
 
 ---
 
