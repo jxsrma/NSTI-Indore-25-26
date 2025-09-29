@@ -11,7 +11,7 @@
 7. Use **Data Validation** to allow only marks between **0 and 100**.
 8. Identify students with **Attendance less than 85%**.
 9. Use **VLOOKUP** to find the **Course** of a student when StudentID is given.
-10. Use **HLOOKUP** to fetch a student’s Marks2 using their StudentID.
+10. Use **LOOKUP** to fetch a student’s Marks2 using their StudentID.
 11. Create a formula to find the **overall class average** marks.
 12. Use **LEN** to calculate the length of each student's name.
 13. Extract the **first 3 letters** of each student’s city using `LEFT`.
