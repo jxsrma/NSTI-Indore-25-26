@@ -1,0 +1,21 @@
+StudentID,Name,Course,Marks1,Marks2,Marks3,Attendance(%),City
+1,Aarav,Python,78,85,90,92,Delhi
+2,Ishita,Excel,65,70,72,88,Mumbai
+3,Rohan,SQL,82,79,85,95,Bangalore
+4,Meera,Power BI,91,89,94,97,Hyderabad
+5,Kabir,Python,55,60,58,80,Chennai
+6,Ananya,Excel,74,76,72,86,Pune
+7,Dev,SQL,88,84,90,93,Delhi
+8,Simran,Power BI,69,73,71,85,Mumbai
+9,Aditya,Python,95,92,97,98,Bangalore
+10,Neha,Excel,81,79,85,90,Hyderabad
+11,Raj,SQL,64,61,67,82,Chennai
+12,Kriti,Power BI,87,90,89,96,Pune
+13,Arjun,Python,70,74,68,84,Delhi
+14,Tanya,Excel,92,95,93,99,Mumbai
+15,Ved,SQL,58,60,62,78,Bangalore
+16,Sanya,Power BI,75,77,80,88,Hyderabad
+17,Manav,Python,83,85,88,92,Chennai
+18,Ridhi,Excel,67,70,69,85,Pune
+19,Kunal,SQL,90,94,91,97,Delhi
+20,Priya,Power BI,72,74,76,89,Mumbai
