@@ -1,0 +1,21 @@
+EmpID,Name,Department,Designation,Monthly Salary,Bonus %,Experience (Years),Projects Completed,Working Hours/Week,City,Joining Date
+E001,Arjun Mehta,Sales,Executive,45000,10,3,8,42,Delhi,2019-04-12
+E002,Isha Verma,HR,Manager,72000,15,8,14,40,Mumbai,2016-09-23
+E003,Raj Singh,IT,Developer,65000,12,5,11,45,Bangalore,2018-02-19
+E004,Meera Joshi,Finance,Analyst,54000,10,4,9,44,Pune,2019-07-08
+E005,Karan Patel,IT,Developer,70000,8,6,15,46,Hyderabad,2017-05-03
+E006,Sanya Gupta,Sales,Executive,47000,10,3,10,43,Mumbai,2020-01-14
+E007,Dev Malhotra,Finance,Manager,82000,18,10,18,41,Delhi,2014-11-20
+E008,Ridhi Sharma,HR,Executive,52000,12,4,7,39,Bangalore,2020-03-10
+E009,Aditya Rao,IT,Lead Developer,95000,20,9,22,47,Chennai,2015-06-15
+E010,Tanya Kapoor,Sales,Manager,88000,18,11,25,42,Pune,2013-12-05
+E011,Kabir Jain,IT,Developer,67000,10,4,12,46,Delhi,2019-08-21
+E012,Neha Bhatnagar,Finance,Executive,49000,9,2,6,40,Mumbai,2021-05-12
+E013,Rohan Das,HR,Manager,76000,16,9,20,44,Bangalore,2015-03-29
+E014,Aarav Khanna,Sales,Executive,48000,11,3,9,43,Hyderabad,2020-07-01
+E015,Kriti Sinha,Finance,Analyst,58000,10,5,10,45,Delhi,2018-11-18
+E016,Ved Arora,IT,Developer,66000,13,6,14,48,Pune,2017-02-10
+E017,Ananya Roy,HR,Executive,50000,11,3,8,38,Chennai,2021-01-26
+E018,Manav Chopra,Finance,Manager,83000,17,10,21,43,Mumbai,2014-09-07
+E019,Simran Gill,Sales,Manager,87000,19,12,23,41,Bangalore,2013-10-09
+E020,Kunal Jain,IT,Developer,69000,9,4,11,47,Delhi,2019-03-17
