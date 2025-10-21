@@ -1,0 +1,21 @@
+Product,Category,Quantity Sold,Unit Price,Region,Month
+Laptop,Electronics,10,50000,North,January
+Mouse,Electronics,50,800,South,January
+Keyboard,Electronics,30,1200,East,February
+Printer,Electronics,5,8000,West,February
+Notebook,Stationery,100,50,North,March
+Pen,Stationery,200,10,South,March
+Chair,Furniture,15,3000,East,April
+Table,Furniture,8,5000,West,April
+Monitor,Electronics,12,12000,North,May
+Headphones,Electronics,20,1500,South,May
+Stapler,Stationery,25,150,East,June
+Cabinet,Furniture,3,10000,West,June
+Projector,Electronics,2,40000,North,July
+Eraser,Stationery,150,5,South,July
+Sofa,Furniture,2,20000,East,August
+Desk,Furniture,4,7000,West,August
+Tablet,Electronics,8,15000,North,September
+Bag,Stationery,50,400,South,September
+Lamp,Furniture,10,2500,East,October
+Router,Electronics,5,3500,West,October
