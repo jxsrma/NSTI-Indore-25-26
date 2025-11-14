@@ -1,0 +1,17 @@
+Today is 10/11/2025
+In the morning we have studies File handling and Read/Write Mode.
+In Evening we are studing Append Mode
+In Evening we are studing Append Mode
+In Evening we are studing Append Mode
+In Evening we are studing Append Mode
+In Evening we are studing Append Mode
+At 5 we Departed to Homes
+*************New Upper Case Data*************
+TODAY IS 10/11/2025
+IN THE MORNING WE HAVE STUDIES FILE HANDLING AND READ/WRITE MODE.
+IN EVENING WE ARE STUDING APPEND MODE
+IN EVENING WE ARE STUDING APPEND MODE
+IN EVENING WE ARE STUDING APPEND MODE
+IN EVENING WE ARE STUDING APPEND MODE
+IN EVENING WE ARE STUDING APPEND MODE
+AT 5 WE DEPARTED TO HOMES
