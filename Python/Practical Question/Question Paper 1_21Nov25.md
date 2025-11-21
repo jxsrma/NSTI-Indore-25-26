@@ -1,8 +1,10 @@
 # ✅ **Python Practical Questions**
+**Note:** Attempt Any 2
 
----
+---s
 
 ## **📝 Question 1: List Operations**
+
 
 You are given a list:
 
