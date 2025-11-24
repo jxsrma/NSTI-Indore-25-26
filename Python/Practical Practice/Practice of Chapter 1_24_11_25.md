@@ -54,7 +54,7 @@ age = 20
 ```
 
 Print:
-`My name is Jash and I am 24 years old.`
+`My name is Anjali and I am 20 years old.`
 (using f-string)
 
 ---
