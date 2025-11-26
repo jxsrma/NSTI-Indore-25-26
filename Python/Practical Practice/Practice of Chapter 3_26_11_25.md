@@ -1,4 +1,4 @@
-# 🟦 **OOP Practice Questions for Python
+# 🟦 **OOP Practice Questions for Python**
 
 ---
 
