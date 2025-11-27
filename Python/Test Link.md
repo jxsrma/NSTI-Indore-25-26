@@ -8,4 +8,5 @@
 <br>
 <a href="https://forms.cloud.microsoft/r/98K3hGuk5n?origin=lprLink" target="_blank">5. Python Quiz 5 - File and Exception Handling 25 Nov</a>
 <br>
-
+<a href="https://forms.cloud.microsoft/r/zbWsER6Qud?origin=lprLink" target="_blank">6. Python Quiz 6 - OOP 27 Nov</a>
+<br>
