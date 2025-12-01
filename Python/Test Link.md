@@ -10,3 +10,5 @@
 <br>
 <a href="https://forms.cloud.microsoft/r/zbWsER6Qud?origin=lprLink" target="_blank">6. Python Quiz 6 - OOP 27 Nov</a>
 <br>
+<a href="https://forms.cloud.microsoft/r/reKtnJH5AR?origin=lprLink" target="_blank">7. Python Quiz 7 - Web Scraping 1 Dec</a>
+<br>
