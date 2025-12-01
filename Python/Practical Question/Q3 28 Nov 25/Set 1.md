@@ -5,7 +5,8 @@
 You are given a list of names:
 
 ```python
-names = ["Aditi", "Aman", "Simran", "Saurabh", "Riya", "Rohan", "Isha", "Ishaan", "Reema"]
+names = ["Aditi", "Aman", "Simran", "Saurabh", "Riya",
+         "Imli", "Ishi", "Ishaani", "Reema", "Ramar"]
 ```
 
 ### **Task**
