@@ -82,4 +82,26 @@ where employeeId = 9;
 use northwind;
 select avg(unitprice) as "Average Price" from product;
 select sum(unitprice) as "Sum of Price" from product;
+select productname, max(unitprice) from product;
+select productname, min(unitprice) from product;
+select count(productid) from product;
+select supplierid,count(productname) from product group by supplierid;
 select * from product;
+
+use sakila;
+select * from film;
+select rental_duration, count(film_id) from film 
+group by rental_duration 
+having rental_duration >= 5 
+order by rental_duration;
+
+select round(4.39827492837492387492374) as "Calculation";
+select ceil(4.39827492837492387492374) as "Calculation";
+select floor(4.39827492837492387492374) as "Calculation";
+
+select abs(-55.555);
+
+use northwind;
+select upper(concat(firstname,' ',lastname)) as FullName from employee;
+
+
