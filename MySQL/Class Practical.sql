@@ -104,4 +104,21 @@ select abs(-55.555);
 use northwind;
 select upper(concat(firstname,' ',lastname)) as FullName from employee;
 
+SELECT now();
+select curdate();
+select curtime();
+
+select year(curdate()) - 2005 as Age;
+
+select adddate(curdate(), interval 5 year);
+select dayname('2001-09-24');
+select subdate(curdate(),interval 4 month);
+
+use northwind;
+select * from employee;
+
+desc employee;
+select Cast(postalcode as char) from employee;
+explain select Cast(postalcode as char)*5 from employee where employeeid = 2;
+
 
