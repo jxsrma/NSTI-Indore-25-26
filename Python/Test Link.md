@@ -12,3 +12,5 @@
 <br>
 <a href="https://forms.cloud.microsoft/r/reKtnJH5AR?origin=lprLink" target="_blank">7. Python Quiz 7 - Web Scraping 1 Dec</a>
 <br>
+<a href="https://forms.cloud.microsoft/r/b7gb1HhdCc?origin=lprLink" target="_blank">8. Python Quiz 8 - 12 Dec</a>
+<br>
