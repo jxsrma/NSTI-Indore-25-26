@@ -121,4 +121,30 @@ desc employee;
 select Cast(postalcode as char) from employee;
 explain select Cast(postalcode as char)*5 from employee where employeeid = 2;
 
+use sakila;
+show tables;
+
+select * from film;
+select * from film where film_id= 716;
+create index film_index ON film(film_id);
+show indexes from film;
+
+-- views
+create view AverageRentalDaysByRating AS
+select rating, avg(rental_duration) as AverageDuration from film group by rating;
+
+select * from AverageRentalDaysByRating;
+
+select * from AverageRentalDaysByRating where averageduration > 5;
+
+
+use collegedb;
+select * from courses;
+select * from students;
+
+alter table students add column course int;
+
+select s.name, c.coursename from courses as c
+join students as s
+on c.courseid = s.course;
 
