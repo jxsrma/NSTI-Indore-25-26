@@ -148,3 +148,8 @@ select s.name, c.coursename from courses as c
 join students as s
 on c.courseid = s.course;
 
+
+use Northwind;
+select * from employee;
+
+DELIMITER ;
