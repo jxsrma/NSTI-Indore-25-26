@@ -78,3 +78,15 @@ END $$
 DELIMITER ;
 
 select Upper(student_name), GetResult(marks) from students;
+
+use nstiadvancequeries;
+select * from students;
+
+start transaction;
+insert into students values (5,"Ram",78);
+select * from students;
+savepoint insertRam;
+insert into students values (6,"Shyam",85);
+rollback to savepoint insertRam;
+commit;
+
