@@ -1,0 +1,101 @@
+Expense_ID,Expense_Date,Category,Description,Payment_Mode,Amount
+9017,2025-01-01,Transport,Travel Expense,Debit Card,354
+9063,2025-01-02,Food,Grocery / Meal,UPI,408
+9034,2025-01-02,Rent,House Rent,Cash,11570
+9096,2025-01-05,Transport,Travel Expense,Cash,76
+9014,2025-01-05,Rent,House Rent,UPI,11019
+9057,2025-01-10,Entertainment,Leisure Expense,UPI,639
+9031,2025-01-10,Entertainment,Leisure Expense,UPI,505
+9068,2025-01-13,Food,Grocery / Meal,Cash,1167
+9089,2025-01-13,Medical,Medical Expense,Cash,950
+9003,2025-01-13,Food,Grocery / Meal,Cash,741
+9047,2025-01-14,Utilities,Electricity / Water Bill,UPI,1871
+9052,2025-01-14,Food,Grocery / Meal,UPI,805
+9028,2025-01-18,Food,Grocery / Meal,UPI,195
+9051,2025-01-22,Food,Grocery / Meal,UPI,852
+9012,2025-01-26,Utilities,Electricity / Water Bill,Cash,1649
+9032,2025-01-28,Food,Grocery / Meal,UPI,293
+9040,2025-01-31,Food,Grocery / Meal,Cash,620
+9076,2025-02-02,Food,Grocery / Meal,UPI,909
+9013,2025-02-02,Transport,Travel Expense,Credit Card,388
+9095,2025-02-03,Rent,House Rent,Cash,10453
+9020,2025-02-07,Utilities,Electricity / Water Bill,UPI,1103
+9023,2025-02-11,Utilities,Electricity / Water Bill,UPI,1113
+9033,2025-02-13,Rent,House Rent,UPI,14385
+9039,2025-02-15,Medical,Medical Expense,UPI,776
+9084,2025-02-18,Medical,Medical Expense,Debit Card,1875
+9074,2025-02-18,Transport,Travel Expense,UPI,433
+9090,2025-02-20,Entertainment,Leisure Expense,Credit Card,2136
+9079,2025-02-22,Food,Grocery / Meal,Credit Card,1075
+9062,2025-02-22,Medical,Medical Expense,UPI,3389
+9081,2025-02-22,Food,Grocery / Meal,UPI,1193
+9094,2025-02-25,Transport,Travel Expense,UPI,66
+9083,2025-02-26,Food,Grocery / Meal,Debit Card,1189
+9043,2025-02-27,Utilities,Electricity / Water Bill,UPI,1217
+9091,2025-03-01,Food,Grocery / Meal,Credit Card,739
+9009,2025-03-03,Rent,House Rent,UPI,9620
+9054,2025-03-03,Food,Grocery / Meal,UPI,568
+9080,2025-03-04,Food,Grocery / Meal,Cash,1166
+9042,2025-03-07,Utilities,Electricity / Water Bill,Debit Card,1689
+9082,2025-03-09,Medical,Medical Expense,Cash,571
+9024,2025-03-09,Transport,Travel Expense,UPI,348
+9053,2025-03-09,Food,Grocery / Meal,UPI,219
+9025,2025-03-10,Rent,House Rent,UPI,11165
+9036,2025-03-13,Rent,House Rent,Cash,12892
+9005,2025-03-13,Food,Grocery / Meal,UPI,1145
+9085,2025-03-14,Entertainment,Leisure Expense,Cash,733
+9055,2025-03-16,Utilities,Electricity / Water Bill,Cash,2449
+9044,2025-03-17,Food,Grocery / Meal,UPI,1131
+9097,2025-03-17,Rent,House Rent,Cash,12438
+9092,2025-03-18,Food,Grocery / Meal,Credit Card,452
+9058,2025-03-20,Food,Grocery / Meal,Debit Card,494
+9048,2025-03-21,Rent,House Rent,UPI,12462
+9045,2025-03-23,Food,Grocery / Meal,UPI,1013
+9072,2025-03-25,Food,Grocery / Meal,UPI,937
+9018,2025-03-26,Medical,Medical Expense,Cash,1737
+9070,2025-03-27,Rent,House Rent,UPI,11553
+9088,2025-03-28,Utilities,Electricity / Water Bill,Cash,1456
+9002,2025-03-30,Transport,Travel Expense,Cash,195
+9056,2025-04-03,Rent,House Rent,Debit Card,14235
+9098,2025-04-06,Transport,Travel Expense,UPI,417
+9067,2025-04-08,Entertainment,Leisure Expense,UPI,697
+9087,2025-04-10,Food,Grocery / Meal,Credit Card,1064
+9046,2025-04-12,Entertainment,Leisure Expense,Debit Card,1405
+9022,2025-04-12,Food,Grocery / Meal,UPI,881
+9006,2025-04-13,Rent,House Rent,UPI,12327
+9077,2025-04-14,Food,Grocery / Meal,Cash,947
+9037,2025-04-15,Utilities,Electricity / Water Bill,UPI,730
+9093,2025-04-18,Food,Grocery / Meal,Credit Card,353
+9001,2025-04-18,Transport,Travel Expense,Cash,565
+9010,2025-04-20,Medical,Medical Expense,Credit Card,2302
+9065,2025-04-24,Transport,Travel Expense,UPI,277
+9073,2025-04-30,Food,Grocery / Meal,Cash,742
+9021,2025-05-01,Food,Grocery / Meal,UPI,883
+9027,2025-05-04,Medical,Medical Expense,UPI,2860
+9099,2025-05-04,Transport,Travel Expense,Cash,227
+9035,2025-05-05,Food,Grocery / Meal,UPI,466
+9050,2025-05-08,Entertainment,Leisure Expense,Credit Card,1164
+9029,2025-05-09,Food,Grocery / Meal,UPI,232
+9066,2025-05-12,Transport,Travel Expense,Cash,585
+9059,2025-05-13,Food,Grocery / Meal,UPI,387
+9019,2025-05-14,Medical,Medical Expense,Cash,1282
+9038,2025-05-19,Entertainment,Leisure Expense,Debit Card,930
+9078,2025-05-19,Utilities,Electricity / Water Bill,Cash,825
+9008,2025-05-19,Food,Grocery / Meal,Cash,689
+9015,2025-05-19,Transport,Travel Expense,Cash,597
+9016,2025-05-19,Food,Grocery / Meal,UPI,556
+9064,2025-05-20,Rent,House Rent,Credit Card,13951
+9061,2025-05-25,Food,Grocery / Meal,Cash,1180
+9071,2025-05-26,Transport,Travel Expense,Cash,428
+9041,2025-05-28,Food,Grocery / Meal,UPI,380
+9004,2025-05-31,Food,Grocery / Meal,UPI,173
+9011,2025-06-04,Rent,House Rent,Cash,10293
+9100,2025-06-04,Utilities,Electricity / Water Bill,Cash,530
+9069,2025-06-06,Medical,Medical Expense,UPI,950
+9007,2025-06-06,Transport,Travel Expense,UPI,559
+9030,2025-06-09,Rent,House Rent,UPI,12209
+9075,2025-06-13,Rent,House Rent,Credit Card,13587
+9049,2025-06-19,Food,Grocery / Meal,Cash,1047
+9026,2025-06-23,Utilities,Electricity / Water Bill,Debit Card,2040
+9060,2025-06-28,Rent,House Rent,Cash,13666
+9086,2025-06-30,Food,Grocery / Meal,Cash,1181

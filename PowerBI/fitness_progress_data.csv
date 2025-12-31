@@ -1,0 +1,101 @@
+Workout_ID,Workout_Date,Exercise,Exercise_Type,Weight_kg,Reps,Duration_Min,Calories_Burned
+6001,2025-01-01,Squats,Strength,50,10,34,200
+6002,2025-01-02,Cycling,Cardio,0,0,38,358
+6003,2025-01-03,Squats,Strength,50,12,40,207
+6004,2025-01-06,Treadmill,Cardio,0,0,37,399
+6005,2025-01-07,Bicep Curl,Strength,13,12,31,329
+6006,2025-01-08,Skipping,Cardio,0,0,26,254
+6007,2025-01-09,Bench Press,Strength,41,12,36,277
+6008,2025-01-10,Deadlift,Strength,62,8,27,347
+6009,2025-01-13,Cycling,Cardio,0,0,20,415
+6010,2025-01-14,Deadlift,Strength,64,8,39,292
+6011,2025-01-15,Squats,Strength,52,10,31,333
+6012,2025-01-16,Deadlift,Strength,63,8,25,339
+6013,2025-01-17,Shoulder Press,Strength,28,12,40,267
+6014,2025-01-20,Cycling,Cardio,0,0,34,294
+6015,2025-01-21,Bench Press,Strength,44,8,34,344
+6016,2025-01-22,Treadmill,Cardio,0,0,36,287
+6017,2025-01-23,Deadlift,Strength,64,8,28,320
+6018,2025-01-24,Squats,Strength,54,10,43,347
+6019,2025-01-27,Bicep Curl,Strength,13,8,37,273
+6020,2025-01-28,Deadlift,Strength,62,8,30,289
+6021,2025-01-29,Treadmill,Cardio,0,0,27,368
+6022,2025-01-30,Squats,Strength,51,10,34,266
+6023,2025-01-31,Treadmill,Cardio,0,0,34,249
+6024,2025-02-03,Skipping,Cardio,0,0,21,430
+6025,2025-02-04,Deadlift,Strength,60,10,33,197
+6026,2025-02-05,Treadmill,Cardio,0,0,32,360
+6027,2025-02-06,Deadlift,Strength,63,12,26,302
+6028,2025-02-07,Squats,Strength,49,10,31,195
+6029,2025-02-10,Deadlift,Strength,64,12,41,262
+6030,2025-02-11,Bicep Curl,Strength,14,8,30,226
+6031,2025-02-12,Deadlift,Strength,63,12,44,295
+6032,2025-02-13,Shoulder Press,Strength,32,10,25,301
+6033,2025-02-14,Shoulder Press,Strength,32,8,44,229
+6034,2025-02-17,Skipping,Cardio,0,0,30,410
+6035,2025-02-18,Squats,Strength,55,8,34,313
+6036,2025-02-19,Bench Press,Strength,44,8,28,323
+6037,2025-02-20,Treadmill,Cardio,0,0,28,370
+6038,2025-02-21,Bicep Curl,Strength,18,12,32,301
+6039,2025-02-24,Skipping,Cardio,0,0,24,243
+6040,2025-02-25,Squats,Strength,53,12,28,250
+6041,2025-02-26,Shoulder Press,Strength,30,8,28,255
+6042,2025-02-27,Deadlift,Strength,66,8,34,323
+6043,2025-02-28,Shoulder Press,Strength,30,10,30,277
+6044,2025-03-03,Bicep Curl,Strength,16,12,38,305
+6045,2025-03-04,Shoulder Press,Strength,35,12,33,311
+6046,2025-03-05,Squats,Strength,51,8,40,349
+6047,2025-03-06,Deadlift,Strength,62,10,44,273
+6048,2025-03-07,Shoulder Press,Strength,33,8,30,246
+6049,2025-03-10,Squats,Strength,56,12,27,268
+6050,2025-03-11,Squats,Strength,57,12,39,194
+6051,2025-03-12,Bench Press,Strength,44,8,31,338
+6052,2025-03-13,Skipping,Cardio,0,0,35,256
+6053,2025-03-14,Shoulder Press,Strength,31,10,39,345
+6054,2025-03-17,Squats,Strength,54,8,42,333
+6055,2025-03-18,Squats,Strength,55,10,34,225
+6056,2025-03-19,Shoulder Press,Strength,32,10,31,341
+6057,2025-03-20,Bicep Curl,Strength,16,8,41,229
+6058,2025-03-21,Deadlift,Strength,64,12,36,266
+6059,2025-03-24,Treadmill,Cardio,0,0,35,295
+6060,2025-03-25,Skipping,Cardio,0,0,39,397
+6061,2025-03-26,Bicep Curl,Strength,14,10,41,208
+6062,2025-03-27,Skipping,Cardio,0,0,26,333
+6063,2025-03-28,Deadlift,Strength,67,10,37,206
+6064,2025-03-31,Cycling,Cardio,0,0,20,261
+6065,2025-04-01,Deadlift,Strength,66,8,33,304
+6066,2025-04-02,Bench Press,Strength,45,8,31,209
+6067,2025-04-03,Squats,Strength,53,10,34,242
+6068,2025-04-04,Deadlift,Strength,70,10,37,310
+6069,2025-04-07,Deadlift,Strength,66,12,29,330
+6070,2025-04-08,Squats,Strength,54,8,31,208
+6071,2025-04-09,Treadmill,Cardio,0,0,24,308
+6072,2025-04-10,Squats,Strength,59,8,37,310
+6073,2025-04-11,Bicep Curl,Strength,19,8,42,256
+6074,2025-04-14,Squats,Strength,56,8,36,187
+6075,2025-04-15,Shoulder Press,Strength,33,12,34,185
+6076,2025-04-16,Bench Press,Strength,45,12,40,335
+6077,2025-04-17,Treadmill,Cardio,0,0,34,214
+6078,2025-04-18,Bicep Curl,Strength,18,12,28,274
+6079,2025-04-21,Shoulder Press,Strength,37,8,34,326
+6080,2025-04-22,Bicep Curl,Strength,19,10,43,227
+6081,2025-04-23,Shoulder Press,Strength,31,12,26,200
+6082,2025-04-24,Skipping,Cardio,0,0,29,327
+6083,2025-04-25,Deadlift,Strength,66,10,31,275
+6084,2025-04-28,Skipping,Cardio,0,0,36,238
+6085,2025-04-29,Squats,Strength,59,8,39,297
+6086,2025-04-30,Shoulder Press,Strength,37,8,44,221
+6087,2025-05-01,Skipping,Cardio,0,0,34,255
+6088,2025-05-02,Shoulder Press,Strength,34,8,31,286
+6089,2025-05-05,Shoulder Press,Strength,38,8,30,219
+6090,2025-05-06,Bench Press,Strength,49,10,33,238
+6091,2025-05-07,Squats,Strength,60,12,30,262
+6092,2025-05-08,Bicep Curl,Strength,14,8,38,272
+6093,2025-05-09,Bicep Curl,Strength,19,12,37,242
+6094,2025-05-12,Shoulder Press,Strength,38,10,27,260
+6095,2025-05-13,Treadmill,Cardio,0,0,36,237
+6096,2025-05-14,Squats,Strength,58,10,33,252
+6097,2025-05-15,Squats,Strength,62,10,35,346
+6098,2025-05-16,Shoulder Press,Strength,38,10,41,197
+6099,2025-05-19,Squats,Strength,62,12,30,228
+6100,2025-05-20,Skipping,Cardio,0,0,22,330
