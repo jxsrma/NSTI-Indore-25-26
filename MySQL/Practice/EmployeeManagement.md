@@ -1,5 +1,5 @@
 
-## 📁 `employee_management.sql`
+# 📁 `employee_management.sql`
 ```sql
 /* ================================
    DATABASE
