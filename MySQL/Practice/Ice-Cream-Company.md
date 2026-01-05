@@ -135,7 +135,7 @@ INSERT INTO sales VALUES
 
 ---
 
-## HARD (Very few – challenge)
+## HARD
 
 21. Find the outlet whose **March revenue** is higher than its **January revenue**.
 22. Display the flavor that generated the **maximum revenue overall**.
