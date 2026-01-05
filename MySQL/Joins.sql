@@ -140,4 +140,23 @@ use sakila;
 select first_name,last_name, email,address_id from customer where address_id in (
 select address_id from address where district = "California"
 );
-select address_id from address where district = "Uttar Pradesh"
+select address_id from address where district = "Uttar Pradesh";
+
+
+use employee_management;
+select * from employees as e
+left join departments as d
+on e.dept_id = d.dept_id;
+
+
+select min_salary from roles where role_name = "Senior Developer";
+-- 60000
+
+select * from employees where salary < 60000; -- Hard Code X
+
+select * from employees where 
+salary < (select min_salary from roles 
+	where role_name = "Senior Developer"); -- Sub Query
+    
+select * from employees where 
+salary < (select min(min_salary) from roles); -- Sub Query
