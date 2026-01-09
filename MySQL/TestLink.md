@@ -4,3 +4,5 @@
 <br>
 <a href="https://forms.cloud.microsoft/r/EDFFk3D9rm?origin=lprLink" target="_blank">3. SQL Quiz 3 - 2 Jan</a>
 <br>
+<a href="https://forms.cloud.microsoft/r/YnFjfrzChR?origin=lprLink" target="_blank">3. SQL Quiz 4 - 9 Jan</a>
+<br>
