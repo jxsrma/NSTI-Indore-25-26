@@ -1,11 +1,4 @@
-Perfect choice for a **first Power BI session**, Jash 👍
-This water intake dataset is **simple, relatable, and visual-friendly** — exactly what beginners need.
-
-Below are **Power BI–specific demonstration questions** you can **present + build live** (no lab overload, just confidence building).
-
----
-
-# 💧 Power BI – First Session Demonstration Questions
+# 💧 Power BI – Questions
 
 *(Daily Water Intake Dataset)*
 
