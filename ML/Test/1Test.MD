@@ -6,5 +6,5 @@
 2. Supervised Machine Learning - 27th Feb</a>
 <br>
 <a href="https://forms.cloud.microsoft/r/yQussPuzqk?origin=lprLink" target="_blank">
-3. Machine Learning Algorithms - 6th March</a>
+3. Machine Learning Algorithms - 18th March</a>
 <br>
