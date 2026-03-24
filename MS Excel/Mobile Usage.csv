@@ -1,0 +1,31 @@
+User ID,Device Model,Operating System,App Usage Time (min/day),Screen On Time (hours/day),Battery Drain (mAh/day),Number of Apps Installed,Data Usage (MB/day),Age,Gender,User Behavior Class
+1,Google Pixel 5,Android,393,6.4,1872,67,1122,40,Male,4
+2,OnePlus 9,Android,268,4.7,1331,42,944,47,Female,3
+3,Xiaomi Mi 11,Android,154,4,761,32,322,42,Male,2
+4,Google Pixel 5,Android,239,4.8,1676,56,871,20,Male,3
+5,iPhone 12,iOS,187,4.3,1367,58,988,31,Female,3
+6,Samsung S21,Android,312,5.9,1544,61,1201,28,Male,4
+7,iPhone 13,iOS,205,4.1,1103,47,899,26,Female,2
+8,OnePlus 9,Android,284,5.2,1422,53,1045,33,Male,3
+9,Xiaomi Redmi 10,Android,198,3.8,981,41,688,22,Male,2
+10,iPhone SE,iOS,167,3.6,845,39,576,29,Female,1
+11,Google Pixel 6,Android,328,6.2,1788,66,1290,38,Male,4
+12,Samsung S22,Android,350,6.5,1922,70,1387,41,Female,4
+13,iPhone 12,iOS,202,4.4,1183,52,932,25,Male,2
+14,OnePlus 10,Android,315,5.6,1602,60,1119,27,Male,3
+15,Xiaomi Mi 11,Android,176,4.2,902,43,633,21,Female,2
+16,Samsung S21,Android,290,5.1,1410,55,1084,34,Male,3
+17,iPhone 14,iOS,222,4.9,1247,59,1042,30,Female,3
+18,Google Pixel 6,Android,341,6.3,1865,65,1345,39,Male,4
+19,OnePlus 8T,Android,276,4.9,1388,50,1011,37,Male,3
+20,iPhone 12,iOS,195,4,1122,48,854,23,Female,2
+21,Xiaomi Redmi 11,Android,210,3.7,967,37,699,24,Male,1
+22,Samsung S22,Android,367,6.8,1956,72,1409,36,Female,4
+23,iPhone 11,iOS,178,3.9,983,44,763,27,Female,2
+24,Google Pixel 7,Android,352,6.7,1908,69,1398,43,Male,4
+25,OnePlus 10,Android,298,5.3,1467,58,1154,35,Male,3
+26,Xiaomi Mi 12,Android,192,4.2,1014,46,799,29,Female,2
+27,iPhone 13,iOS,210,4.5,1169,54,912,32,Male,2
+28,Samsung S23,Android,379,6.9,1999,75,1456,45,Male,4
+29,iPhone 14,iOS,240,5,1276,62,1090,31,Female,3
+30,OnePlus 11,Android,325,5.7,1654,64,1208,28,Male,3

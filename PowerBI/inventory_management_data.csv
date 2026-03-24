@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Supplier,Stock_In,Stock_Out,Available_Stock,Reorder_Level
+3001,Notebook,Stationery,ABC Traders,54,42,12,21
+3002,Printer,Electronics,Global Supply Co,148,114,34,29
+3003,Notebook,Stationery,ABC Traders,206,134,72,24
+3004,Mobile,Electronics,Global Supply Co,177,93,84,21
+3005,Cupboard,Furniture,Global Supply Co,60,30,30,18
+3006,Laptop,Electronics,Global Supply Co,177,109,68,26
+3007,Desk,Furniture,Global Supply Co,129,125,4,16
+3008,Mobile,Electronics,Prime Distributors,157,92,65,22
+3009,Marker,Stationery,Global Supply Co,195,122,73,36
+3010,Marker,Stationery,ABC Traders,108,90,18,20
+3011,Mouse,Electronics,Global Supply Co,59,37,22,17
+3012,Stapler,Stationery,Global Supply Co,95,51,44,37
+3013,Pen,Stationery,Global Supply Co,121,55,66,30
+3014,Table,Furniture,ABC Traders,152,75,77,13
+3015,Chair,Furniture,Global Supply Co,226,160,66,12
+3016,Printer,Electronics,Global Supply Co,105,46,59,23
+3017,Keyboard,Electronics,ABC Traders,158,139,19,20
+3018,Desk,Furniture,Global Supply Co,130,74,56,16
+3019,Mouse,Electronics,Prime Distributors,197,144,53,19
+3020,Printer,Electronics,Global Supply Co,296,287,9,24
+3021,File,Stationery,Prime Distributors,223,194,29,22
+3022,File,Stationery,Prime Distributors,209,134,75,27
+3023,Stapler,Stationery,ABC Traders,158,95,63,26
+3024,Mobile,Electronics,Global Supply Co,201,94,107,26
+3025,Chair,Furniture,Global Supply Co,61,49,12,11
+3026,Laptop,Electronics,ABC Traders,79,49,30,18
+3027,Pen,Stationery,ABC Traders,94,54,40,23
+3028,Mobile,Electronics,Global Supply Co,207,199,8,27
+3029,Mouse,Electronics,ABC Traders,69,50,19,18
+3030,File,Stationery,Prime Distributors,254,174,80,30

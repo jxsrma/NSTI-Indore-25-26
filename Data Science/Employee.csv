@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,Age,Salary,JoinDate,Email,ManagerID
+101,John Doe,Sales,28,55000,2019-03-15,john.doe@example.com,201
+102,Jane Smith,HR,34,62000,2018-07-01,jane.smith@example.com,202
+103,Mike Brown,IT,,72000,2020-01-20,mike.brown@example.com,203
+104,,Finance,41,80000,2017-11-05,,201
+105,Emily Davis,Sales,25,,2021-06-10,emily.davis@example.com,
+106,David Wilson,IT,38,75000,,david.wilson@example.com,203
+107,Sarah Johnson,,29,58000,2022-02-14,sarah.johnson@example.com,202
+108,Chris Lee,Marketing,,65000,2019-09-30,,204
+109,Anna White,HR,31,60000,2020-05-18,anna.white@example.com,
+110,Tom Harris,Sales,45,,2016-08-22,tom.harris@example.com,201

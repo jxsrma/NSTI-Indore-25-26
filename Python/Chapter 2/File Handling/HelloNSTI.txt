@@ -1,0 +1,3 @@
+Hello NSTI,
+I am from Indore
+Studying File Handling in Python

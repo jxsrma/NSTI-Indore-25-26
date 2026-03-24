@@ -1,0 +1,18 @@
+{
+    "Ram": {
+        "Name": "Ram Yadav",
+        "Class": 10,
+        "Section": "A",
+        "School": "ABC International School",
+        "Roll_No": 38,
+        "Contact": "+91-987-789-9988"
+    },
+    "Shyam": {
+        "Name": "Shyam Yadav",
+        "Class": 10,
+        "Section": "A",
+        "School": "ABC International School",
+        "Roll_No": 32,
+        "Contact": "+91-987-789-9989"
+    }
+}

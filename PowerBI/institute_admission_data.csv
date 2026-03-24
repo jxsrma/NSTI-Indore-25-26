@@ -1,0 +1,121 @@
+Admission_ID,Admission_Year,Course,Gender,Category
+7001,2023,COPA,Male,General
+7002,2022,ITI Electrician,Male,General
+7003,2022,ITI Fitter,Female,OBC
+7004,2023,ITI Electrician,Female,General
+7005,2023,ITI Electrician,Male,General
+7006,2025,ITI Electrician,Male,General
+7007,2023,ITI Electrician,Female,General
+7008,2025,Welder,Male,ST
+7009,2025,Plumber,Female,SC
+7010,2022,ITI Electrician,Male,OBC
+7011,2023,ITI Fitter,Male,OBC
+7012,2023,COPA,Male,SC
+7013,2021,Welder,Male,OBC
+7014,2025,ITI Fitter,Female,SC
+7015,2025,ITI Electrician,Female,OBC
+7016,2024,COPA,Female,General
+7017,2022,Plumber,Female,OBC
+7018,2025,COPA,Male,OBC
+7019,2024,ITI Fitter,Female,OBC
+7020,2023,ITI Fitter,Female,General
+7021,2023,ITI Fitter,Male,OBC
+7022,2024,ITI Fitter,Male,General
+7023,2025,ITI Fitter,Male,General
+7024,2024,COPA,Male,General
+7025,2024,Welder,Male,OBC
+7026,2021,ITI Electrician,Male,OBC
+7027,2023,COPA,Female,ST
+7028,2021,Welder,Female,ST
+7029,2022,ITI Electrician,Male,General
+7030,2025,Plumber,Male,OBC
+7031,2025,COPA,Female,ST
+7032,2024,Welder,Male,OBC
+7033,2024,ITI Electrician,Female,SC
+7034,2023,ITI Electrician,Female,General
+7035,2025,COPA,Male,OBC
+7036,2023,Plumber,Male,OBC
+7037,2024,ITI Electrician,Male,OBC
+7038,2024,Plumber,Male,General
+7039,2024,COPA,Male,General
+7040,2022,Plumber,Male,SC
+7041,2024,ITI Fitter,Female,General
+7042,2025,ITI Electrician,Female,ST
+7043,2025,ITI Fitter,Male,General
+7044,2023,ITI Fitter,Male,General
+7045,2025,COPA,Male,General
+7046,2025,ITI Electrician,Female,SC
+7047,2024,COPA,Female,General
+7048,2021,ITI Electrician,Male,OBC
+7049,2025,COPA,Male,SC
+7050,2023,COPA,Female,General
+7051,2022,ITI Electrician,Male,General
+7052,2024,COPA,Female,OBC
+7053,2023,COPA,Female,General
+7054,2022,Welder,Female,OBC
+7055,2025,ITI Electrician,Female,General
+7056,2022,COPA,Female,General
+7057,2022,ITI Fitter,Male,General
+7058,2024,COPA,Male,General
+7059,2023,COPA,Male,OBC
+7060,2021,ITI Electrician,Female,SC
+7061,2021,COPA,Male,ST
+7062,2021,ITI Fitter,Male,SC
+7063,2023,COPA,Male,OBC
+7064,2024,COPA,Female,General
+7065,2025,ITI Electrician,Female,ST
+7066,2024,ITI Fitter,Male,General
+7067,2024,ITI Electrician,Male,General
+7068,2025,ITI Electrician,Female,OBC
+7069,2025,Plumber,Female,General
+7070,2022,Plumber,Male,General
+7071,2024,ITI Electrician,Male,SC
+7072,2025,ITI Electrician,Male,OBC
+7073,2022,ITI Electrician,Male,General
+7074,2024,ITI Electrician,Male,General
+7075,2025,Welder,Female,OBC
+7076,2025,ITI Electrician,Female,SC
+7077,2025,COPA,Male,General
+7078,2023,ITI Electrician,Male,General
+7079,2021,ITI Fitter,Female,OBC
+7080,2021,Plumber,Male,General
+7081,2021,Plumber,Male,OBC
+7082,2024,Welder,Male,OBC
+7083,2023,ITI Fitter,Female,OBC
+7084,2021,COPA,Male,General
+7085,2025,ITI Electrician,Male,General
+7086,2025,COPA,Male,OBC
+7087,2024,ITI Electrician,Male,OBC
+7088,2025,COPA,Male,General
+7089,2023,ITI Fitter,Female,General
+7090,2024,ITI Fitter,Male,OBC
+7091,2024,Welder,Female,OBC
+7092,2024,ITI Fitter,Female,General
+7093,2022,COPA,Female,General
+7094,2024,ITI Electrician,Male,General
+7095,2023,ITI Electrician,Female,OBC
+7096,2024,COPA,Male,SC
+7097,2023,ITI Fitter,Male,OBC
+7098,2023,ITI Fitter,Female,SC
+7099,2025,ITI Fitter,Male,General
+7100,2022,ITI Fitter,Female,OBC
+7101,2021,ITI Electrician,Male,General
+7102,2023,Plumber,Female,General
+7103,2023,Welder,Female,General
+7104,2023,Plumber,Female,OBC
+7105,2021,COPA,Male,OBC
+7106,2024,ITI Electrician,Male,SC
+7107,2025,COPA,Female,OBC
+7108,2022,COPA,Male,General
+7109,2022,COPA,Female,SC
+7110,2025,ITI Fitter,Female,General
+7111,2024,ITI Fitter,Male,OBC
+7112,2024,ITI Electrician,Male,SC
+7113,2023,COPA,Male,OBC
+7114,2024,ITI Fitter,Male,SC
+7115,2023,ITI Electrician,Male,General
+7116,2021,COPA,Male,General
+7117,2022,ITI Fitter,Male,General
+7118,2025,Plumber,Female,General
+7119,2022,ITI Electrician,Male,SC
+7120,2025,ITI Fitter,Male,General
