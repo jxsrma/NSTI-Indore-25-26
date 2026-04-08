@@ -4,3 +4,6 @@
 <a href="https://forms.cloud.microsoft/r/HeD5N4s8WT?origin=lprLink" target="_blank">
 2. Deep Learning Architectures & Training of Neural Networks - 7 April</a>
 <br>
+<a href="https://forms.cloud.microsoft/r/ANY8JRMN3L?origin=lprLink" target="_blank">
+3. Convolutional Neural Network - 8 April</a>
+<br>
