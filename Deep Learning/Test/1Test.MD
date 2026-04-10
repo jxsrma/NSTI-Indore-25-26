@@ -7,3 +7,6 @@
 <a href="https://forms.cloud.microsoft/r/ANY8JRMN3L?origin=lprLink" target="_blank">
 3. Convolutional Neural Network - 8 April</a>
 <br>
+<a href="https://forms.cloud.microsoft/r/c5LjuDRqS2?origin=lprLink" target="_blank">
+4. RNN - 10 April</a>
+<br>
