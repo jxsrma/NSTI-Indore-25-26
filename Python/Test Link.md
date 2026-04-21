@@ -14,3 +14,5 @@
 <br>
 <a href="https://forms.cloud.microsoft/r/b7gb1HhdCc?origin=lprLink" target="_blank">8. Python Quiz 8 - 12 Dec</a>
 <br>
+<a href="https://forms.cloud.microsoft/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=Iu8GrdzWVUq0wcOhWPXxR-aNr91uB3RFraQxn3KwMkRUNjRaTERFMVo5MDdaTTNXV0QyQUU5Nlk5RC4u" target="_blank">Python AIMD Assessment - 21 April</a>
+<br>
