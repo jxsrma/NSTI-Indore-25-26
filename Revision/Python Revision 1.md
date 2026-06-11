@@ -83,3 +83,85 @@ Create a program using Pandas that:
 | Arjun | 20  | 80    |
 
 ---
+
+**Python logic questions**
+
+### 1. Find the Second Largest Number
+
+Create a program that:
+
+* Takes 5 numbers from the user.
+* Finds the second largest number without using `sort()`.
+
+---
+
+### 2. Count Duplicate Elements
+
+Given a list:
+
+```python
+numbers = [10, 20, 10, 30, 40, 20, 50]
+```
+
+Write a program to:
+
+* Find all duplicate values.
+* Display how many unique duplicates exist.
+
+---
+
+### 3. Reverse a Number Without String Conversion
+
+Take an integer as input and reverse it.
+
+**Example:**
+
+```
+Input: 12345
+Output: 54321
+```
+
+**Condition:** Do not use string slicing or conversion.
+
+---
+
+### 4. Missing Number Finder
+
+Given:
+
+```python
+numbers = [1, 2, 3, 4, 6, 7, 8, 9, 10]
+```
+
+Find the missing number from 1–10 using logic.
+
+---
+
+### 5. Character Frequency Challenge
+
+Take a word from the user and:
+
+* Find the character that appears the most times.
+* Display the character and its count.
+
+**Example:**
+
+```
+Input: programming
+Output: m = 2
+```
+
+---
+
+### Bonus Challenge
+
+Given:
+
+```python
+data = [5, 2, 8, 1, 9]
+```
+
+Without using `max()` or `min()`:
+
+* Find the largest number.
+* Find the smallest number.
